@@ -1,0 +1,36 @@
+[Thu Jul 25 16:19:51.412554 2024] [mpm_winnt:notice] [pid 37160:tid 348] AH00455: Apache/2.4.62 (Win64) configured -- resuming normal operations
+[Thu Jul 25 16:19:51.415422 2024] [mpm_winnt:notice] [pid 37160:tid 348] AH00456: Apache Lounge VS17 Server built: Jul 16 2024 12:23:10
+[Thu Jul 25 16:19:51.415422 2024] [core:notice] [pid 37160:tid 348] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Thu Jul 25 16:19:51.433726 2024] [mpm_winnt:notice] [pid 37160:tid 348] AH00418: Parent: Created child process 38268
+[Thu Jul 25 16:19:51.702957 2024] [mpm_winnt:notice] [pid 38268:tid 388] AH00354: Child: Starting 64 worker threads.
+[Thu Jul 25 17:15:38.090102 2024] [mpm_winnt:notice] [pid 37160:tid 348] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Jul 25 17:15:40.110918 2024] [mpm_winnt:notice] [pid 38268:tid 388] AH00364: Child: All worker threads have exited.
+[Thu Jul 25 17:15:40.137721 2024] [mpm_winnt:notice] [pid 37160:tid 348] AH00430: Parent: Child process 38268 exited successfully.
+[Thu Jul 25 17:51:42.210986 2024] [mpm_winnt:notice] [pid 36176:tid 196] AH00455: Apache/2.4.62 (Win64) configured -- resuming normal operations
+[Thu Jul 25 17:51:42.211491 2024] [mpm_winnt:notice] [pid 36176:tid 196] AH00456: Apache Lounge VS17 Server built: Jul 16 2024 12:23:10
+[Thu Jul 25 17:51:42.211491 2024] [core:notice] [pid 36176:tid 196] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Thu Jul 25 17:51:42.220933 2024] [mpm_winnt:notice] [pid 36176:tid 196] AH00418: Parent: Created child process 25228
+Apache server interrupted...
+024] [mpm_winnt:notice] [pid 25228:tid 396] AH00354: Child: Starting 64 worker threads.
+[Thu Jul 25 17:52:54.897511 2024] [mpm_winnt:notice] [pid 36176:tid 196] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Jul 25 17:52:56.919143 2024] [mpm_winnt:notice] [pid 25228:tid 396] AH00364: Child: All worker threads have exited.
+[Thu Jul 25 17:52:56.941226 2024] [mpm_winnt:notice] [pid 36176:tid 196] AH00430: Parent: Child process 25228 exited successfully.
+Starting the 'Apache2.4' service
+The 'Apache2.4' service is running.
+pm_winnt:notice] [pid 39696:tid 376] AH00455: Apache/2.4.62 (Win64) configured -- resuming normal operations
+[Thu Jul 25 19:54:25.914306 2024] [mpm_winnt:notice] [pid 39696:tid 376] AH00456: Apache Lounge VS17 Server built: Jul 16 2024 12:23:10
+[Thu Jul 25 19:54:25.914306 2024] [core:notice] [pid 39696:tid 376] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Thu Jul 25 19:54:25.917905 2024] [mpm_winnt:notice] [pid 39696:tid 376] AH00418: Parent: Created child process 49040
+[Thu Jul 25 19:54:26.172210 2024] [mpm_winnt:notice] [pid 49040:tid 388] AH00354: Child: Starting 64 worker threads.
+The 'Apache2.4' service is restarting.
+The 'Apache2.4' service has restarted.
+winnt:notice] [pid 39696:tid 376] AH00424: Parent: Received restart signal -- Restarting the server.
+[Thu Jul 25 20:01:31.342454 2024] [mpm_winnt:notice] [pid 39696:tid 376] AH00455: Apache/2.4.62 (Win64) configured -- resuming normal operations
+[Thu Jul 25 20:01:31.342454 2024] [mpm_winnt:notice] [pid 39696:tid 376] AH00456: Apache Lounge VS17 Server built: Jul 16 2024 12:23:10
+[Thu Jul 25 20:01:31.342454 2024] [core:notice] [pid 39696:tid 376] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Thu Jul 25 20:01:31.350749 2024] [mpm_winnt:notice] [pid 39696:tid 376] AH00418: Parent: Created child process 28264
+[Thu Jul 25 20:01:32.297343 2024] [mpm_winnt:notice] [pid 28264:tid 384] AH00354: Child: Starting 64 worker threads.
+[Thu Jul 25 20:01:33.310911 2024] [mpm_winnt:notice] [pid 49040:tid 388] AH00364: Child: All worker threads have exited.
+[Thu Jul 25 20:30:26.726380 2024] [mpm_winnt:notice] [pid 39696:tid 376] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Jul 25 20:30:31.539213 2024] [mpm_winnt:notice] [pid 28264:tid 384] AH00364: Child: All worker threads have exited.
+[Thu Jul 25 20:30:31.567244 2024] [mpm_winnt:notice] [pid 39696:tid 376] AH00430: Parent: Child process 28264 exited successfully.
