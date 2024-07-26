@@ -10,11 +10,13 @@
 
 **View Website Locally** <br>
 -Install Apache server for your operating system <br>
+-Adjust SRVTOOT directory to your file path using forward slashes and no slash a the end of the path. See config file for more details (conf>httpd.conf).
 Start server:<br>
 -(windows) httpd -k start <br>
 -(linux) sudo systemctl start apache2 <br>
 -(mac) sudo launchctl load -w /System/Library/LaunchDaemons/org.apache.httpd.plist <br>
 -Go to localhost port 80 **("Hello CareerRipple Team!")**<br>
+-Note: you can't start with it with the shortcuts you might have to define the full path all th way to the httpd.exe and run that path.
 
 
 
