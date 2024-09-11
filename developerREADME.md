@@ -1,7 +1,7 @@
 # Developer Instructions
 
 ### As of 9/10 "docker-compose up" is not yet functional. 
-### Continue to run thing locally by pulling from main, and activating virtual environment: 
+### Continue to run things locally by pulling from main, but also activate the virtual environment: 
 ```
 venv\scripts\activate  
 ```
@@ -20,4 +20,4 @@ then view at localhost:8000
  ```
  then view at localhost:5173
 
-### Nginx: It mostly linux compatible so it won't run on non-linux machine until I get docker running. 
+### Nginx: It's mostly linux compatible so it won't run on non-linux machine until I get docker running. 
